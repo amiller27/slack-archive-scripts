@@ -1,0 +1,3 @@
+[submodule "slack-archiver"]
+	path = slack-archiver
+	url = https://github.com/amiller27/slack-archiver
